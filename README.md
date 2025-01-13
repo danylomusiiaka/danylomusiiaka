@@ -42,5 +42,3 @@ Like Docker, Jest, Redux, Gitlab, WebRTC
 ~~...but I need more practise~~
 
 ## Check my featured projects! ✨
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danylomusiiaka&repo=microsoft-to-do-clone)](https://github.com/danylomusiiaka/microsoft-to-do-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Markolissimo&repo=Origins)](https://github.com/Markolissimo/Origins)
