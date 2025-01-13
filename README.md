@@ -1,4 +1,4 @@
-# Hi, I'm Danylo Musiiaka 👋
+# Hi, I'm Danylo Musiiaka 👋 
 
 ### About me
 
@@ -31,7 +31,6 @@ And I have experience with these databeses
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase)](https://skillicons.dev)
 
-
 ## Also I'm familiar with these tools
 
 Like Docker, Jest, Redux, Gitlab, WebRTC
@@ -39,6 +38,6 @@ Like Docker, Jest, Redux, Gitlab, WebRTC
 [![My Skills](https://skillicons.dev/icons?i=docker,jest,redux,gitlab)](https://skillicons.dev)
 <img src="https://static-00.iconduck.com/assets.00/webrtc-icon-2048x1987-45puxjf4.png" width="50" height="50">
 
-~~...but I need more practise~~
+...but I need more practise
 
-## Check my featured projects! ✨
+### Check my featured projects in pinned repositories! ✨
