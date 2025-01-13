@@ -10,8 +10,8 @@
 
 🛡️ Passionate about cybersecurity, testing, clean code and optimisation!
 
+![Waving cinnamoroll](https://media.tenor.com/P5EJALTMklMAAAAj/cinnamoroll.gif)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danylomusiiaka&layout=compact)
-<img src="https://media.tenor.com/P5EJALTMklMAAAAj/cinnamoroll.gif">
 
 ## My tech stack
 
