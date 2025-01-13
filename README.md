@@ -40,4 +40,4 @@ Like Docker, Jest, Redux, Gitlab, WebRTC
 
 ...but I need more practise
 
-### Check my featured projects in pinned repositories! ✨
+## Check my featured projects in pinned repositories! ✨
