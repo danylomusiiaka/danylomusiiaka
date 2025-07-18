@@ -36,7 +36,7 @@ And I have experience with these databeses
 Like Docker, Jest, Redux, Gitlab, WebRTC
 
 [![My Skills](https://skillicons.dev/icons?i=docker,jest,redux,gitlab)](https://skillicons.dev)
-<img src="https://static-00.iconduck.com/assets.00/webrtc-icon-2048x1987-45puxjf4.png" width="50" height="50">
+<img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="50" height="50">
 
 ...but I need more practise
 
